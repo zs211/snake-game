@@ -61,13 +61,6 @@ GitHub：https://github.com/zs211
 - 添加更多游戏元素
 - 优化游戏性能
 - 支持更多平台
-## License
-This project is licensed under the MIT License.
-See the LICENSE file for details.
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-## Acknowledgements
-- [Pygame](https://www.pygame.org/) - 用于游戏开发的Python库
-- [MIT License](https://mit-license.org/) - 本项目的开源许可证
+
 
 
