@@ -29,6 +29,8 @@ Q 键：退出游戏
 C 键：重新开始游戏
 ## 游戏截图
 <img width="810" height="634" alt="image" src="https://github.com/user-attachments/assets/2e75138e-fcab-4364-989f-76f8b371d6c1" />
+<img width="810" height="634" alt="image" src="https://github.com/user-attachments/assets/bd418027-082b-4b5c-8d25-45dfb3ef9128" />
+
 
 ## 许可证
 本项目基于 MIT 许可证开源，您可以在遵守许可证条款的前提下自由使用、修改和分发本项目的代码。
@@ -61,6 +63,7 @@ GitHub：https://github.com/zs211
 - 添加更多游戏元素
 - 优化游戏性能
 - 支持更多平台
+
 
 
 
