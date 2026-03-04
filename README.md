@@ -1,20 +1,16 @@
 # 贪吃蛇游戏 (Snake Game)
 一个基于Python + Pygame开发的经典贪吃蛇游戏，支持Windows一键运行，Ubuntu源码运行。
-
 ## 功能特点
 - 经典贪吃蛇玩法，方向键控制移动
 - 分数实时显示
 - 游戏结束后可重新开始或退出
 - Windows用户无需安装Python，直接下载可执行文件即可玩
-
 ## 运行方式
-
 ### Ubuntu/Linux
 1. 克隆仓库：
    ```bash
    git clone https://github.com/zs211/snake-game.git
    cd snake-game
-
 2. 安装依赖：
    ```bash
    pip3 install pygame --user
@@ -32,8 +28,7 @@ Windows
 Q 键：退出游戏
 C 键：重新开始游戏
 ## 游戏截图
-![游戏截图]<img width="810" height="634" alt="image" src="https://github.com/user-attachments/assets/2e75138e-fcab-4364-989f-76f8b371d6c1" />
-
+<img width="810" height="634" alt="image" src="https://github.com/user-attachments/assets/2e75138e-fcab-4364-989f-76f8b371d6c1" />
 ## 许可证
 本项目基于 MIT 许可证开源，您可以在遵守许可证条款的前提下自由使用、修改和分发本项目的代码。
 详情请参阅 LICENSE 文件。
@@ -65,7 +60,6 @@ GitHub：https://github.com/zs211
 - 添加更多游戏元素
 - 优化游戏性能
 - 支持更多平台
-
 ## License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
@@ -74,3 +68,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Acknowledgements
 - [Pygame](https://www.pygame.org/) - 用于游戏开发的Python库
 - [MIT License](https://mit-license.org/) - 本项目的开源许可证
+
